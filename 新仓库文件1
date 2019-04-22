@@ -1,6 +1,13 @@
-Edit new file 编写仓库文件的内容
-preview 预览效果（网速不好会比较慢）
+一、编写仓库文件的内容 Edit new file 
+右边preview
+预览效果（网速不好会比较慢）
 
 底部Commit new file
 第一行填写本次提交的概括标题
 第二行填写本次提交的目的（方便其他开发者知道本次修改/增加的原因）
+
+
+二、修改文件 Commit changes
+点击文件名，点击右上角的笔编写
+
+底部 Commit changes，记得填写修改/删除的原因
